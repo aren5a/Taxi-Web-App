@@ -1,0 +1,70 @@
+c:\users\aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.dll
+c:\users\aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.pdb
+c:\users\aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.dll
+c:\users\aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.pdb
+c:\users\aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.dll
+c:\users\aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.pdb
+C:\Users\Aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.dll
+C:\Users\Aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.pdb
+C:\Users\Aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapNET.dll
+C:\Users\Aren\documents\visual studio 2010\Projects\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapUtil.dll
+K:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.dll
+K:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.pdb
+K:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.dll
+K:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.dll
+K:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapNET.dll
+K:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.pdb
+K:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.pdb
+K:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapUtil.dll
+K:\p\Taxi.WebApp\Taxi.BLL\obj\Debug\ResolveAssemblyReference.cache
+K:\p\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.dll
+K:\p\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.pdb
+C:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.dll
+C:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.pdb
+C:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.dll
+C:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.dll
+C:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapNET.dll
+C:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.pdb
+C:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.pdb
+C:\p\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapUtil.dll
+C:\p\Taxi.WebApp\Taxi.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\p\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.dll
+C:\p\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.pdb
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.dll
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.pdb
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.dll
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.dll
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapNET.dll
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.pdb
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.pdb
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapUtil.dll
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.dll
+C:\Users\revolution\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.pdb
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.dll
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.pdb
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.dll
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.dll
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapNET.dll
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.pdb
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.pdb
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapNET.xml
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapUtil.dll
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\bin\Debug\msvcr100.dll
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.dll
+C:\Users\Aren Sargsyans\Desktop\poroje aren\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.pdb
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.dll
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.BLL.pdb
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.dll
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.dll
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapNET.dll
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.Common.pdb
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\Taxi.DAL.pdb
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapNET.xml
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\AspMapUtil.dll
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\bin\Debug\msvcr100.dll
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.dll
+C:\Users\Aren\Desktop\Taxi.WebApp\Taxi.BLL\obj\Debug\Taxi.BLL.pdb
